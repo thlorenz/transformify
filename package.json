@@ -27,6 +27,7 @@
     "transform",
     "stream",
     "browserify",
+    "browserify-transform",
     "catw",
     "mutiny"
   ],
