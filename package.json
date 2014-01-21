@@ -1,6 +1,6 @@
 {
   "name": "transformify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Takes a synchronous function that transforms a string and converts it into a transform compatible with browserify, catw and mutiny.",
   "main": "index.js",
   "scripts": {
